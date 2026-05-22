@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Symmetric modern bookshelf container, perfectly centered in the 108dp viewport -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26h40c2.2,0 4,1.8 4,4v48c0,2.2 -1.8,4 -4,4H34c-2.2,0 -4,-1.8 -4,-4V30C30,27.8 31.8,26 34,26zM34,30v14h40V30H34zM34,48v14h40V48H34zM34,66v12h40V66H34z" />
+    <!-- Dynamic horizontal books inside shelves, contrasting in deep charcoal -->
+    <path
+        android:fillColor="#121214"
+        android:pathData="M38,34h6v6h-6zM48,34h12v6H48zM38,52h14v6H38zM56,52h12v6H56zM38,70h8v6h-8zM50,70h18v6H50z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "StudyShelf",
+  "description": "An offline academic digital bookshelf helping students organize references to study materials & PDFs under subjects and units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
