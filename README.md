@@ -40,7 +40,14 @@ The app creates a study-focused view of your notes so you can find study materia
 
 ## Screenshots
 
-(Add screenshots here)
+![Image 1](screenshot/img1.jpeg)
+![Image 2](screenshot/img2.jpeg)
+![Image 3](screenshot/img3.jpeg)
+![Image 4](screenshot/img4.jpeg)
+![Image 5](screenshot/img5.jpeg)
+![Image 6](screenshot/img6.jpeg)
+![Image 7](screenshot/img7.jpeg)
+![Image 8](screenshot/img 8.jpeg)
 
 ---
 
